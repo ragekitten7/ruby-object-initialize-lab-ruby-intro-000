@@ -16,5 +16,5 @@ end
 
 def breed=(new_bread)
   @breed = new_bread
-
+end
 end
